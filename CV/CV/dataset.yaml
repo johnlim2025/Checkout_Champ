@@ -1,0 +1,12 @@
+names:
+  0: orange
+  1: pineapple
+  2: watermelon
+  3: lemon
+  4: lime
+  5: apple
+  6: red onion
+path: CV
+train: /Users/aidanworkman/ce347/CV/train/images
+val: /Users/aidanworkman/ce347/CV/val/images
+test: /Users/aidanworkman/ce347/CV/test/images
